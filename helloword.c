@@ -6,4 +6,5 @@ int main()
   printf("This is my first repository")
   printf("Max biggest MU Fans!")
   printf("adam is gay")
+  print("adam beban")
 }
